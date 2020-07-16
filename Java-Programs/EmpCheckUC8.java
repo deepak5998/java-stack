@@ -29,7 +29,11 @@ public class EmpCheckUC8 {
       return totalEmpHrs * company.getEmpRatePerHrs();
    }
    /** dynamically values are assigned to the parameters
+<<<<<<< HEAD
+     * Created and initialized object
+=======
      * We have used parameterized class and object
+>>>>>>> 714d68066f2222b9af218a8ba4eb71625eaf4479
      */
    public static void main(String[] args) {
    final Company apple = new Company("Apple",20, 20, 100);
@@ -41,9 +45,15 @@ public class EmpCheckUC8 {
    }
 }
 
+<<<<<<< HEAD
+   /** Created a class named company
+     * default and parameterized construct is formed
+     * we have used getter and setter method to privately access the variables
+=======
    /** Created parameterized class and object
      * default and parameterized construct is formed
      * we have used get and set method to privately access the variables
+>>>>>>> 714d68066f2222b9af218a8ba4eb71625eaf4479
      */
 
 class Company {
