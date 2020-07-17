@@ -68,13 +68,6 @@ public class EmpCheckUC10 {
    /** Created a class named Company
      * default and parameterized construct is formed
      * we have used getter and setter method to privately access the variables
-<<<<<<< HEAD
-<<<<<<< HEAD
-     * we have used getter and setter method to privately access the variables
-=======
->>>>>>> develop
-=======
->>>>>>> 79816814abf833442f129dd311a81aca74f3b484
      * @override instance method toString() is created
      */
 
